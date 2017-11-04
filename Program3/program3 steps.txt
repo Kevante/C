@@ -1,0 +1,87 @@
+PROGRAM 3 Hangman steps, Spring 2017:
+
+****Please do only one step at a time and do not move onto the 
+next step until you have compiled and tested the current step:
+
+You will need to declare variables along the way 
+
+Download the program3.exe file and hangmanWords.txt file from Canvas to play a few rounds of the game
+(YOU MAY NEED TO CONNECT TO THE ENGINEERING STUDENT DESKTOPS TO TRY IT)
+
+WRITE AND SUBMIT THE PROGRAM 3 ALGORITHM before beginning the implementation
+
+1. create a project and name the source code program3.c
+
+2. copy/paste the function prototypes  from the assignment on canvas
+into your source code  and set up the main function and the function defintions 
+
+3. BUILD to make sure the project was set up correctly the code compiles.
+
+4.Save the hangmanWords.txt file into the same directory as the program3.c file
+
+5. Declare a file pointer in the main function, connect to the file, read the first word from the file (use fscanf and %s) and print it
+onto the screen, this is to ensure that your program is properly connecting to the file 
+
+6.BUILD RUN AND TEST, DO NOT CONTINUE if you cannot connect and read words from the file
+
+7.implement and call the Rules function
+
+8.BUILD RUN AND TEST
+
+9. set up the while or do/while loop in the main function and implement the Quit function
+Add printf statements for feedback
+
+10. BUILD RUN AND TEST a few times to make sure it ends with n, remember to accomodate upper and lower case input
+At this point the program should continue to read words from the file and print the words onto the screnn 
+as long as the user enters a y
+
+11.Implement the ChangeCase function to change the word from the file to either all upper or all lower case 
+(you must use a loop and change it character by character)
+
+12. Call the ChangeCase function from main, passing it the solutionWord
+
+13. BUILD RUN and TEST
+
+14. Implement and call the InitializeWord function (call it from main), this function will take the length of the solution Word and the empty
+starWord and create an array the same size at the solution word with only ****** astericks, remeber to add the null character '\0'
+
+15. BUILD RUN and TEST, you should now have the solution word all in one case and the star word both ready to be passed to the PlayOneRound function
+
+16. call the PlayOneRound function from main, remember that it takes 2 arguments and returns an integer
+BUILD RUN and TEST and add printf statements to make sure it is working correctly
+
+17. Implement the  definition for WonLost, call it from the main function to test, BUILD RUN and TEST
+
+The PlayOneRound function has a loop that will continue until the user either guesses 6 incorrect letters or guesses the word correctly
+
+DO NOT TRY TO IMPLEMENT THE ENTIRE PLAY ONE ROUND FUNCTION AT ONE TIME 
+
+Declare 2 character arrays inside the playOneRound Function and initailize to ""  (1) guessed letters (2) users word guess
+
+BEFORE IMPLEMENTING THE PLAYONE ROUND FUNCTION, DO ALL THE FUNCTION DEFINITIONS FOR THE HELPER FUNCTIONS FIRST
+IN ORDER TO TEST THE HELPER FUNCTIONS YOU WILL NEED VARIABLES WITH VALUES AND USE PRINTF STATMENTS TO FOLLOW WHAT IS HAPPENING
+
+	1. Do the function definition for GetLetter, call it from the PlayOneRound function to test, remember to change the case of the input letter
+	2. Do the function definition for PlaceLetter, call it from the PlayOneRound function to test, BUILD RUN and TEST
+	3. Do the function definition for CompareArrays, call it from the PlayOneRound function to test, BUILD RUN and TEST
+	4. Do the function definition for Draw hangman, call it from the PlayOneRound function to test, BUILD RUN and TEST
+	
+
+ 
+18. NOW IT IS TIME TO ADD THE LOOP And logic to the playOneRound Function:
+
+You will need to nest if /else condition (based on whether the letter guessed is in the word)
+Inside of the loop.
+
+You will need to use all the helper functions (1-4) above to complete a round of the game
+
+Do one thing at a time and test along the way
+
+19. The last function to implement is the WonLost function (to be called from main)
+    
+   
+
+
+
+
+

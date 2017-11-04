@@ -1,0 +1,30 @@
+int PlayOneRound(char sol[], char star[])
+{
+int totalletters = 0, wrongletters = 0;
+while(wrongletters < 6)
+{
+	char word[30];
+	int same;
+	//present starword
+	//present letters guessed
+	//ask + get guess
+	//change case
+	//add the letter to the guessed letters
+	//check if letter is in word, if not wrongletter++(draw hangman)
+	//get a guess word
+	//change case of guessed word
+	//check if guessword matches solutionword, if it does wrongletters=6
+
+	printf(
+
+
+}
+
+int CompareAr(char sol[], wordguess[])
+{
+	if(strcmp(wordguess, sol)==0)
+	{
+		return 1;
+	}
+	else return 0;
+}

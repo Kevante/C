@@ -1,0 +1,13 @@
+﻿  program3.c
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(57): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(59): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(94): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(94): warning C4024: 'Quit': different types for formal and actual parameter 1
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(47): warning C4101: 'GuessLetter': unreferenced local variable
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(48): warning C4101: 'letter': unreferenced local variable
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(164): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(164): warning C4024: 'GetLetter': different types for formal and actual parameter 1
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(165): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+c:\users\stealth pro\desktop\box\fau\introtoprogramming\program3\program 3\program3.c(142): warning C4101: 'i': unreferenced local variable
+  Program 3.vcxproj -> C:\Users\Stealth Pro\Desktop\Box\FAU\IntroToProgramming\Program3\Debug\Program 3.exe
+  Program 3.vcxproj -> C:\Users\Stealth Pro\Desktop\Box\FAU\IntroToProgramming\Program3\Debug\Program 3.pdb (Partial PDB)

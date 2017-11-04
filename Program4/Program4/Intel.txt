@@ -1,0 +1,35 @@
+
+Name: Rex
+Rank: Captain
+ID: 7567
+PT Score: 300
+Accuracy: 35.00
+DNA Integrity: 99.00
+
+Name: Cody
+Rank: Commander
+ID: 2224
+PT Score: 298
+Accuracy: 33.00
+DNA Integrity: 99.80
+
+Name: Fives
+Rank: Trooper
+ID: 5555
+PT Score: 272
+Accuracy: 29.00
+DNA Integrity: 96.00
+
+Name: Echo
+Rank: Trooper
+ID: 1409
+PT Score: 282
+Accuracy: 31.00
+DNA Integrity: 97.00
+
+Name: Heavy
+Rank: Trooper
+ID: 782
+PT Score: 286
+Accuracy: 26.00
+DNA Integrity: 95.00

@@ -1,0 +1,83 @@
+PROGRAM 4 steps, Spring 2017:
+
+****Please do only one step at a time and do not move onto the 
+next step until you have compiled and tested the current step:
+
+You will need to declare variables along the way 
+
+Download the program4.exe file  file from Canvas 
+(YOU MAY NEED TO CONNECT TO THE ENGINEERING STUDENT DESKTOPS TO TRY IT)
+
+WRITE THE PROGRAM 4 ALGORITHM before beginning the implementation,
+
+***THE ALGORITHM DOES NOT NEED TO BE SUBMITTED ***
+
+1. create a project and name the source code program4.c
+
+2. Set up the main function and preprocessor directives
+
+3. create ther struct with 6 fields (remember to use typedef struct)
+   
+4. implement the greeting function (prorotype, defintion, and call)
+
+BUILD, RUN , and TEST
+
+5. declare an array of your new type (size 40) and an integer to keep track 
+of the number of itmes in the arrray initialized to 0
+
+6. implement the HardCode five function - fill the array with 5 items and then set the number to 5
+
+BUILD, RUN , and TEST
+
+7. Now it is time to do the menu: implement the menu function and call it from main
+use printf statment to test
+
+BUILD, RUN , and TEST
+
+8. create a while or do/while loop in main with conditions for all of the menu selections
+add printf statements to test
+
+
+BUILD, RUN , and TEST all the options: P, A, C, S, D, U, Q
+
+9. Implement the Print List function, this function will be called when the user selects p
+This function will print the 5 entries that have been already loaded into the array
+You will need to adjust the formatting to display the information
+
+
+BUILD, RUN , and TEST- select P
+
+10. Implement the add and item to the list function, this function
+ will add an entry to the list and will be called when the user selects A
+ remember to add 1 to the number of items in thelist
+
+BUILD, RUN , and TEST- select A, and then P
+
+11. implement clear the list by setting the number of items to 0
+
+
+BUILD, RUN , and TEST- select C, and then P, then A, then P
+
+12. Implement the Print report function, this function will be called when the user selects S
+This function is similar to the Print list function only you will need to add the file pointer and use fprintf
+Be sure to declare, use and clsoe the file pointer inside the print report function
+Go into the project directory to locate the report file that was created
+
+
+BUILD, RUN , and TEST - select S
+
+12. Implement the Disply Ids function
+This function will be called when the user enters a D or a U
+
+BUILD, RUN , and TEST - select D and select U (use printf statments to test)
+
+13. Implement the search function
+This function will be called when the user enters a D or a U
+
+BUILD, RUN , and TEST - select D and select U (use printf statments to test)
+
+14. implement the Delete an item function, remeber to subtract 1 from the number of items
+BUILD, RUN , and TEST - select D, then P
+
+15. implemnt Update a field function
+BUILD, RUN , and TEST - select U, then P

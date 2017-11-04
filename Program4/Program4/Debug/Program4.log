@@ -1,0 +1,53 @@
+﻿  program4.c
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(59): warning C4047: 'function': 'clone *' differs in levels of indirection from 'clone (*)[40]'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(59): warning C4024: 'CloneArmy': different types for formal and actual parameter 1
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(74): warning C4047: 'function': 'clone *' differs in levels of indirection from 'clone (*)[40]'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(74): warning C4024: 'FreshBoot': different types for formal and actual parameter 1
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(85): warning C4047: 'function': 'clone *' differs in levels of indirection from 'clone (*)[40]'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(85): warning C4024: 'Article15': different types for formal and actual parameter 1
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(90): warning C4047: 'function': 'clone *' differs in levels of indirection from 'clone (*)[40]'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(90): warning C4024: 'AlterTheDeal': different types for formal and actual parameter 1
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(92): warning C4047: 'function': 'clone *' differs in levels of indirection from 'clone (*)[40]'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(92): warning C4024: 'CloneArmy': different types for formal and actual parameter 1
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(130): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(136): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(176): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(193): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(197): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(201): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(203): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(216): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+d:\box\fau\01_spring_2017\introtoprogramming\program4\program4\program4.c(260): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+  Program4.vcxproj -> D:\Box\FAU\01_Spring_2017\IntroToProgramming\Program4\Debug\Program4.exe
+  Program4.vcxproj -> D:\Box\FAU\01_Spring_2017\IntroToProgramming\Program4\Debug\Program4.pdb (Partial PDB)
